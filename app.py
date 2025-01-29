@@ -9,6 +9,7 @@ Created on Wed Jan 29 10:28:32 2025
 
 # PART 1
 # Introduction to Streamlit
+import plotly.express as px
 import pandas as pd
 import streamlit as st
 
